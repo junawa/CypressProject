@@ -1,0 +1,19 @@
+{
+  "loginPageTC1": {
+    "demoSite": "https://opensource-demo.orangehrmlive.com",
+    "validUsername": "Admin",
+    "validPassword": "admin123"
+  },
+  "frontEndTC1": {
+    "localhost": "http://localhost:5173/",
+    "usdBalance": "USD Balance: $1000",
+    "coinA": "CoinA",
+    "coinB": "CoinB",
+    "coinC": "CoinC",
+    "coinD": "CoinD"
+  },
+  "frontEndTC2": {
+    "localhost": "http://localhost:5173/",
+    "coinAToBuy": "3"
+  }
+}
